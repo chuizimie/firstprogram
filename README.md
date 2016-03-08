@@ -1,3 +1,3 @@
 # firstprogram
 It's a test program.
-Read me please.
+Git is a distributed version control system.
